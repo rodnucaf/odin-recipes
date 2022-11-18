@@ -1,13 +1,33 @@
 body{
     font-family: 'Courier New', Courier, sans-serif;
-    background-color: #f6bfbc;  
+    background-color: #f6bfbc;
 }
 
-#header{
+
+#header {
     text-align: center;
-    
 }
 
-div{
+.container,
+ul, ol {
     background-color: #fef4f4;
+    border: solid 2px salmon;
+    margin: 5px;
 }
+
+div,
+.head{
+    background-color: #D7713B;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    border: solid 2px salmon;
+    margin: 10px;
+}
+
+
+
+
+
