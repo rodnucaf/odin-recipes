@@ -1,3 +1,13 @@
 body{
-    background-color: #e9dfe5;
+    font-family: 'Courier New', Courier, sans-serif;
+    background-color: #f6bfbc;  
+}
+
+#header{
+    text-align: center;
+    
+}
+
+div{
+    background-color: #fef4f4;
 }
